@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/danikCF/homewrok-12js-countries"
   },
-  "homepage": "// тут вставить url GitHub Pages после команды npm run deploy",
+  "homepage": "https://danikcf.github.io/homewrok-12js-countries",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",

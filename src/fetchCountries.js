@@ -4,7 +4,6 @@ import listTemplate from './listCountries.hbs'
 import { error } from "@pnotify/core";
 import "@pnotify/core/dist/PNotify.css";
 import "@pnotify/core/dist/BrightTheme.css";
-import "../node_modules/@pnotify/core/dist/PNotify.css";
 const countries = document.querySelector('.countries')
 
 let baseUrl = `https://restcountries.eu/rest/v2/name/`
